@@ -1,5 +1,5 @@
 # MCSnake
-A python based Minecraft Classic/ClassiCube Server
+A fork of the MCSnake Server Software supporting custom plugins 
 
 ## Requirements
 - Python 3.x.x area (made in 3.12.10)
@@ -7,3 +7,4 @@ A python based Minecraft Classic/ClassiCube Server
 # Running
 - Download repo
 - Run 'main.py'
+- Add plugin inside the plugin folder
